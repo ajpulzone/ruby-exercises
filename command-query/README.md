@@ -16,27 +16,27 @@ These exercises focus on these two types of operations.
 
 ## Exercises
 
-- `leather_chair_spec.rb`
-- `tire_spec.rb`
-- `pills_spec.rb`
-- `floor_spec.rb`
-- `milk_bottle_spec.rb`
-- `person_spec.rb`
-- `door_spec.rb`
-- `teeth_spec.rb`
-- `music_spec.rb`
-- `drops_spec.rb`
-- `light_spec.rb`
-- `baby_spec.rb`
-- `kid_spec.rb`
-- `beers_spec.rb`
-- `teenager_spec.rb`
-- `adult_spec.rb`
-- `roll_call_spec.rb`
-- `santa_spec.rb`
-- `dog_spec.rb`
-- `children_spec.rb`
-- `water_spec.rb`
+- `leather_chair_spec.rb`  # Done 8-4-22
+- `tire_spec.rb`  # Done 8-4-22
+- `pills_spec.rb` # Done 8-4-22
+- `floor_spec.rb` # Done 8-4-22
+- `milk_bottle_spec.rb` # Done 8-4-22
+- `person_spec.rb`  # Done 8-4-22
+- `door_spec.rb`  # Done 8-4-22
+- `teeth_spec.rb` # Done 8-4-22
+- `music_spec.rb` # Done 8-4-22
+- `drops_spec.rb` # Done 8-4-22
+- `light_spec.rb` # Done 8-4-22
+- `baby_spec.rb`  # Done 8-4-22
+- `kid_spec.rb` # Done 8-4-22
+- `beers_spec.rb` # Done 8-4-22
+- `teenager_spec.rb` ### This does not exist ###
+- `adult_spec.rb` # Done 8-4-22
+- `roll_call_spec.rb` # Done 8-5-22 (this was really difficult, need to revisit)
+- `santa_spec.rb` # Done 8-5-22
+- `dog_spec.rb` # Done 8-5-222.
+- `children_spec.rb` #*** Really struggling with this one. Copied from Alaina-Noel from    Git hub, still unsure why/how it works.
+- `water_spec.rb` # Done 8-7-22
 - `clock_spec.rb`
 - `appointments_spec.rb`
 - `yak_spec.rb`
